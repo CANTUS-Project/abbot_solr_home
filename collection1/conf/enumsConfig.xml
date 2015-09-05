@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<enumsConfig>
+  <enum name="MassOrOfficeEnum">
+    <value>Mass</value>
+    <value>Office</value>
+  </enum>
+  <enum name="TypeEnum">
+    <value>source</value>
+    <value>chant</value>
+    <value>indexer</value>
+    <value>century</value>
+    <value>feast</value>
+    <value>genre</value>
+    <value>notation</value>
+    <value>office</value>
+    <value>portfolio</value>
+    <value>provenance</value>
+    <value>siglum</value>
+    <value>segment</value>
+    <value>source_status</value>
+    <value>cantusid</value>
+  </enum>
+</enumsConfig>
