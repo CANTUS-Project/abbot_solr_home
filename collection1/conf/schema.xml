@@ -128,8 +128,8 @@
    <field name="city" type="string" indexed="true" stored="true" multiValued="false"/>
    <field name="country" type="string" indexed="true" stored="true" multiValued="false"/>
       <!-- we'll search on display_name only -->
-   <field name="family_name" type="string" indexed="false" stored="true" multiValued="false"/>
-   <field name="given_name" type="string" indexed="false" stored="true" multiValued="false"/>
+   <field name="family_name" type="string" indexed="true" stored="true" multiValued="false"/>
+   <field name="given_name" type="string" indexed="true" stored="true" multiValued="false"/>
    <!-- cantusid -->
    <field name="member_id" type="string" indexed="false" stored="true" multiValued="true"/>
    <!-- default field for searching -->
